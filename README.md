@@ -127,7 +127,7 @@ You should be able to ...
 	- [ ] Local Path: Click "Choose" and add a new folder on your computer. This will be the base folder for your work in this class: `<your-class-name-here>`
 	- [ ] Click "Clone" to make a local copy
 - [ ] Open the repo in Atom: Repository > Open in Atom  
-- [ ] ✏️ In Atom, edit this README file and add your *second* favorite emoji here: **??**
+- [ ] ✏️ In Atom, edit this README file and add your *second* favorite emoji here: **🙌**
 - [ ] In Github Desktop, view/confirm your edits to the README file on the Changes tab
 - [ ] ✏️ Commit your changes directly to the main branch with the message `commit #2 from Github Desktop`
 - [ ] Click Push origin to push your new commit to remote repo  
@@ -145,7 +145,7 @@ You should have a basic familiarity with the command line to install Git. Some f
   - [ ] List files in this directory, including hidden: `ls -la`  
   - [ ] Confirm the existence of the `.git` directory (where Git versions and config are stored)
   - [ ] View your current directory and copy the full path: `pwd`
-  - [ ] Open this README file in Atom and paste that path here: **??**
+  - [ ] Open this README file in Atom and paste that path here: **/Users/mengfanwang/Sites/critical-web-design/learn-git-milestones/README.md**
 - [ ] Use Git on the CLI
   - [ ] [Confirm](https://docs.github.com/en/github/using-git/setting-your-username-in-git) your name and email is correct in the Git config
   - [ ] View the status of your repo: `git status`
