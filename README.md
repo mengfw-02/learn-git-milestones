@@ -225,7 +225,7 @@ Create a github.io site for your repository ...
   - [x] Do not use a theme. Start from scratch
   - [x] Visit your project site at http://*username*.github.io/my-awesome-project
   - [x] Update your project, push a new commit, and confirm your updates (note: [changes are not always instant](https://github.com/omundy/dig245-a1/deployments/activity_log?environment=github-pages))
-  - [x] ✏️ Paste this link here: https://mengfw-02.github.io/my-awesome-project/
+  - [x] ✏️ Paste this link here: https://mengfw-02.github.io/my-awesome-project/  https://github.com/mengfw-02/my-awesome-project
 
 
 
@@ -239,7 +239,7 @@ Now that we have basic Git commands out of the way use Git to create and turn in
 - [x] Test your file(s) in a web browser
 - [x] Commit and push the files to Github
 - [x] Paste the github.io link into the appropriate Moodle forum
-  
+
 
 
 
