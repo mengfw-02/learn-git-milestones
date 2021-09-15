@@ -129,31 +129,31 @@ You should be able to ...
 - [x] Open the repo in Atom: Repository > Open in Atom  
 - [x] ✏️ In Atom, edit this README file and add your *second* favorite emoji here: **🙌**
 - [x] In Github Desktop, view/confirm your edits to the README file on the Changes tab
-- [ ] ✏️ Commit your changes directly to the main branch with the message `commit #2 from Github Desktop`
-- [ ] Click Push origin to push your new commit to remote repo  
-- [ ] Confirm the changes to the README file were pushed: Choose Repository > View on Github
-- [ ] Click on the README file and then click on History to see the history of this file
+- [x] ✏️ Commit your changes directly to the main branch with the message `commit #2 from Github Desktop`
+- [x] Click Push origin to push your new commit to remote repo  
+- [x] Confirm the changes to the README file were pushed: Choose Repository > View on Github
+- [x] Click on the README file and then click on History to see the history of this file
 
 
 ### Command line interface (CLI)
 You should have a basic familiarity with the command line to install Git. Some folks use the CLI as their default tool for editing and publishing source code, but Atom makes it much easier.
 
-- [ ] If you haven't yet, complete the [command line crash course](https://github.com/omundy/learn-computing/blob/main/topics-command-line.md#crash-course)
-- [ ] In Github Desktop, with the [learn-git-milestones](https://github.com/omundy/learn-git-milestones) repo you cloned above selected, click Repository > Open in Terminal ("Bash" in Windows?)
-- [ ] Use the CLI to navigate directories  
-  - [ ] List files in this directory: `ls`
-  - [ ] List files in this directory, including hidden: `ls -la`  
-  - [ ] Confirm the existence of the `.git` directory (where Git versions and config are stored)
-  - [ ] View your current directory and copy the full path: `pwd`
-  - [ ] Open this README file in Atom and paste that path here: **/Users/mengfanwang/Sites/critical-web-design/learn-git-milestones/README.md**
-- [ ] Use Git on the CLI
-  - [ ] [Confirm](https://docs.github.com/en/github/using-git/setting-your-username-in-git) your name and email is correct in the Git config
-  - [ ] View the status of your repo: `git status`
-  - [ ] View the changed files of your repo: `git diff`
-  - [ ] Add all changed files to the staging area `git add .`
-  - [ ] View the status of your repo `git status` to confirm it has been staged
-  - [ ] ✏️ Commit your changes with the message `commit #3 from CLI`
-  - [ ] Use `git push` to [push those changes to your remote repo](https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository)
+- [x] If you haven't yet, complete the [command line crash course](https://github.com/omundy/learn-computing/blob/main/topics-command-line.md#crash-course)
+- [x] In Github Desktop, with the [learn-git-milestones](https://github.com/omundy/learn-git-milestones) repo you cloned above selected, click Repository > Open in Terminal ("Bash" in Windows?)
+- [x] Use the CLI to navigate directories  
+  - [x] List files in this directory: `ls`
+  - [x] List files in this directory, including hidden: `ls -la`  
+  - [x] Confirm the existence of the `.git` directory (where Git versions and config are stored)
+  - [x] View your current directory and copy the full path: `pwd`
+  - [x] Open this README file in Atom and paste that path here: **/Users/mengfanwang/Sites/critical-web-design/learn-git-milestones/README.md**
+- [x] Use Git on the CLI
+  - [x] [Confirm](https://docs.github.com/en/github/using-git/setting-your-username-in-git) your name and email is correct in the Git config
+  - [x] View the status of your repo: `git status`
+  - [x] View the changed files of your repo: `git diff`
+  - [x] Add all changed files to the staging area `git add .`
+  - [x] View the status of your repo `git status` to confirm it has been staged
+  - [x] ✏️ Commit your changes with the message `commit #3 from CLI`
+  - [x] Use `git push` to [push those changes to your remote repo](https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository)
 
 
 
@@ -165,36 +165,36 @@ You've used most of these already through a GUI (e.g. `git status`, `git add`, `
 ### Git in Atom
 You should be able to ...
 
-- [ ] In Github Desktop, open this repo [learn-git-milestones](https://github.com/omundy/learn-git-milestones) in Atom: Repository > Open in Atom  
-- [ ] ✏️ In Atom, edit this README file and add your *third* favorite emoji here: **🥱**
-- [ ] ✏️ Create a new file `hello.txt`, add some text and save it.
-- [ ] Display the Git panel (click the small Git button at the bottom right).
+- [x] In Github Desktop, open this repo [learn-git-milestones](https://github.com/omundy/learn-git-milestones) in Atom: Repository > Open in Atom  
+- [x] ✏️ In Atom, edit this README file and add your *third* favorite emoji here: **🥱**
+- [x] ✏️ Create a new file `hello.txt`, add some text and save it.
+- [x] Display the Git panel (click the small Git button at the bottom right).
 
 ![atom-git-menu](assets/img/atom-git-menu.png)
 
-- [ ] Select on your file(s) in Unstaged changes and confirm your changes match what you expect to see
-- [ ] Double click on each file with changes to stage them  
-- [ ] ✏️ Commit your changes directly to the main branch with the message `commit #4 from Atom`
+- [x] Select on your file(s) in Unstaged changes and confirm your changes match what you expect to see
+- [x] Double click on each file with changes to stage them  
+- [x] ✏️ Commit your changes directly to the main branch with the message `commit #4 from Atom`
 
 
 
 
 ## Create a new repository
 
-- [ ] Create a repository from scratch
-  - [ ] ✏️ In Github Desktop, create a new repository with the name: `my-awesome-project`
-  - [ ] Local Path: Click "Choose" and create a new folder `my-awesome-project` inside the `<your-class-name-here>` folder you made above
-  - [ ] Click Create Repository
-  - [ ] This should now be your class folder's directory structure.
+- [x] Create a repository from scratch
+  - [x] ✏️ In Github Desktop, create a new repository with the name: `my-awesome-project`
+  - [x] Local Path: Click "Choose" and create a new folder `my-awesome-project` inside the `<your-class-name-here>` folder you made above
+  - [x] Click Create Repository
+  - [x] This should now be your class folder's directory structure.
   ```
   <your-class-name-here>
     |-- my-awesome-project
     |-- learn-git-milestones
   ```
-  - [ ] Open your new repository in Atom (with Github Desktop or drag the `my-awesome-project` project folder onto the Atom icon in your dock)
-  - [ ] ✏️ Add a README file: `README.md`
-  - [ ] ✏️ In the README write your name and the date
-  - [ ] ✏️ Use some [Markdown tags](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+  - [x] Open your new repository in Atom (with Github Desktop or drag the `my-awesome-project` project folder onto the Atom icon in your dock)
+  - [x] ✏️ Add a README file: `README.md`
+  - [x] ✏️ In the README write your name and the date
+  - [x] ✏️ Use some [Markdown tags](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 
 
@@ -202,7 +202,7 @@ You should be able to ...
 ## Create a Github.io page
 Create a github.io site for your repository ...
 
-- [ ] ✏️ Create a file called `index.html` in your new repo and add the following html
+- [x] ✏️ Create a file called `index.html` in your new repo and add the following html
 
 ```html
 <!DOCTYPE html>
@@ -219,13 +219,13 @@ Create a github.io site for your repository ...
 </html>
 ```
 
-- [ ] Set up a [Github page](https://pages.github.com/) "project site" for your repo
-  - [ ] On Github.com, go to your repo > Settings, and scroll down to the Github Pages section
-  - [ ] Select the main branch source and click save
-  - [ ] Do not use a theme. Start from scratch
-  - [ ] Visit your project site at http://*username*.github.io/my-awesome-project
-  - [ ] Update your project, push a new commit, and confirm your updates (note: [changes are not always instant](https://github.com/omundy/dig245-a1/deployments/activity_log?environment=github-pages))
-  - [ ] ✏️ Paste this link here:
+- [x] Set up a [Github page](https://pages.github.com/) "project site" for your repo
+  - [x] On Github.com, go to your repo > Settings, and scroll down to the Github Pages section
+  - [x] Select the main branch source and click save
+  - [x] Do not use a theme. Start from scratch
+  - [x] Visit your project site at http://*username*.github.io/my-awesome-project
+  - [x] Update your project, push a new commit, and confirm your updates (note: [changes are not always instant](https://github.com/omundy/dig245-a1/deployments/activity_log?environment=github-pages))
+  - [x] ✏️ Paste this link here: https://mengfw-02.github.io/my-awesome-project/
 
 
 
@@ -235,11 +235,11 @@ Create a github.io site for your repository ...
 ## Turn in this Assignment
 Now that we have basic Git commands out of the way use Git to create and turn in your assignment ...
 
-- [ ] Complete all of the items on this README
-- [ ] Test your file(s) in a web browser
-- [ ] Commit and push the files to Github
+- [x] Complete all of the items on this README
+- [x] Test your file(s) in a web browser
+- [x] Commit and push the files to Github
 - [ ] Paste the github.io link into the appropriate Moodle forum
-
+  
 
 
 
