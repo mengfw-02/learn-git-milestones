@@ -238,7 +238,7 @@ Now that we have basic Git commands out of the way use Git to create and turn in
 - [x] Complete all of the items on this README
 - [x] Test your file(s) in a web browser
 - [x] Commit and push the files to Github
-- [ ] Paste the github.io link into the appropriate Moodle forum
+- [x] Paste the github.io link into the appropriate Moodle forum
   
 
 
