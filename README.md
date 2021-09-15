@@ -92,18 +92,18 @@ Install your development environment
 
 ### Configure Git
 
-- [ ] On the command line, confirm Git is installed by typing `git` at the prompt and hitting enter
-- [ ] ✏️ This displays a help file with a list of possible commands. What does `log` do? *****
-- [ ] Add your name and email (replace with your information and press return after each line)
+- [x] On the command line, confirm Git is installed by typing `git` at the prompt and hitting enter
+- [x] ✏️ This displays a help file with a list of possible commands. What does `log` do? *****
+- [x] Add your name and email (replace with your information and press return after each line)
 ```bash
 git config --global user.name "Jane Doe"
 git config --global user.email janedoe@example.com
 ```
-- [ ] Set the default branch to [main](https://www.theserverside.com/feature/Why-GitHub-renamed-its-master-branch-to-main)
+- [x] Set the default branch to [main](https://www.theserverside.com/feature/Why-GitHub-renamed-its-master-branch-to-main)
 ```bash
 git config --global init.defaultBranch main
 ```
-- [ ] Confirm your settings worked with either of these
+- [x] Confirm your settings worked with either of these
 ```bash
 cat ~/.gitconfig
 git config --list
@@ -118,17 +118,17 @@ You should be able to perform a basic Git workflow using Github.com, the command
 ### In Github Desktop
 You should be able to ...
 
-- [ ] Install [Atom](https://atom.io/) on your machine
-	- [ ] Connect your Github account in Atom
-- [ ] Install [Github Desktop](https://desktop.github.com/)
-	- [ ] Connect your Github account in Github Desktop
-	- [ ] In Github Desktop, clone the fork (you made above) [learn-git-milestones](https://github.com/omundy/learn-git-milestones) ...
-	- [ ] File > Clone Repository > Github.com and select it ...
-	- [ ] Local Path: Click "Choose" and add a new folder on your computer. This will be the base folder for your work in this class: `<your-class-name-here>`
-	- [ ] Click "Clone" to make a local copy
-- [ ] Open the repo in Atom: Repository > Open in Atom  
-- [ ] ✏️ In Atom, edit this README file and add your *second* favorite emoji here: **🙌**
-- [ ] In Github Desktop, view/confirm your edits to the README file on the Changes tab
+- [x] Install [Atom](https://atom.io/) on your machine
+	- [x] Connect your Github account in Atom
+- [x] Install [Github Desktop](https://desktop.github.com/)
+	- [x] Connect your Github account in Github Desktop
+	- [x] In Github Desktop, clone the fork (you made above) [learn-git-milestones](https://github.com/omundy/learn-git-milestones) ...
+	- [x] File > Clone Repository > Github.com and select it ...
+	- [x] Local Path: Click "Choose" and add a new folder on your computer. This will be the base folder for your work in this class: `<dig245-critical-web-design>`
+	- [x] Click "Clone" to make a local copy
+- [x] Open the repo in Atom: Repository > Open in Atom  
+- [x] ✏️ In Atom, edit this README file and add your *second* favorite emoji here: **🙌**
+- [x] In Github Desktop, view/confirm your edits to the README file on the Changes tab
 - [ ] ✏️ Commit your changes directly to the main branch with the message `commit #2 from Github Desktop`
 - [ ] Click Push origin to push your new commit to remote repo  
 - [ ] Confirm the changes to the README file were pushed: Choose Repository > View on Github
